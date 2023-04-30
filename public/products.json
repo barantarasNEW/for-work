@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Rozmarzona Żurawina",
+    "recipe": [
+      "40 Żurawinówka",
+      "Sok pomarańczowy",
+      "10 Grenadina",
+      "dek rozmaryn"
+    ],
+    "img": "https://cdn.galleries.smcloud.net/t/photos/gf-cLWD-CKvY-o3NQ_red-drop-drink-zurawina-i-wodka.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Campari Orange",
+    "recipe": [
+      "60 Campari",
+      "Sok pomarańczowy"
+    ],
+    "img": "https://kulinarneprzeboje.pl/wp-content/uploads/2023/01/sex-on-the-beach-drink-scaled.jpg"
+  }
+]
