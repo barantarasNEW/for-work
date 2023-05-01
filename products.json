@@ -18,5 +18,134 @@
       "Sok pomarańczowy"
     ],
     "img": "https://kulinarneprzeboje.pl/wp-content/uploads/2023/01/sex-on-the-beach-drink-scaled.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Dziki Żubr",
+    "recipe": [
+      "Żubrówka",
+      "Martini Dry",
+      "Cappy jabłkowy"
+    ],
+    "img": "https://koktajl.tv/npics/zubrwkazsokiemjablkowym.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Blue Lagoon",
+    "recipe": [
+      "40 wódka",
+      "40 likier Blue Curacao",
+      "10 sok z cytryny - kilka kropel",
+      "10 surop cukrowy",
+      "sprite - do wypełnienia",
+      "bez lodu"
+    ],
+    "img": "http://koktajle-drinki.pl/img/Drink-Blue-Lagoon-B%C5%82%C4%99kitna-Laguna-2.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Cuba Libre",
+    "recipe": [
+      "50 rum bacardi",
+      "120 coca cola",
+      "10 sok z cytryny"
+    ],
+    "img": "http://koktajle-drinki.pl/img/Drink-Cuba-Libre-2.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Mohito",
+    "recipe": [
+      "5 limonka",
+      "2ly cukier brązowy",
+      "60 bacardi",
+      "mięta",
+      "woda gazowana",
+      "dec mieta"
+    ],
+    "img": "https://kulinarneprzeboje.pl/wp-content/uploads/2019/02/drink-Mohito-przepis-240x361.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Aperol Spritz",
+    "recipe": [
+      "2 pomarańcza",
+      "60 Aperol",
+      "120 Proseco (free - free Proseco)",
+      "woda gazowana"
+    ],
+    "img": "https://cdn.aniagotuje.com/pictures/articles/2021/06/16537315-v-1500x1500.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Cardinal",
+    "recipe": [
+      "Martini Dry",
+      "Gin",
+      "Campari",
+      "Triple sec",
+      "Cappy pomarańczowy"
+    ],
+    "img": "https://images.absolutdrinks.com/drink-images/Raw/Absolut/c53a5999-952a-4e2e-a52a-bae74977576a.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Pina Colada",
+    "recipe": [
+      "led",
+      "sheiker",
+      "mleko",
+      "Sok z ananasa",
+      "40 Rum",
+      "40 Malibu",
+      "dec ananasa and chocolate"
+    ],
+    "img": "https://www.kwestiasmaku.com/sites/v123.kwestiasmaku.com/files/pina_colada_p.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Margarita",
+    "recipe": [
+      "40 Tequila",
+      "20 Triple sec",
+      "30 sok z limonki",
+      "dec limonka and sol morska"
+    ],
+    "img": "https://www.kwestiasmaku.com/sites/v123.kwestiasmaku.com/files/margarita_01.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Tequila Sunrise",
+    "recipe": [
+      "40 Tequila Silver",
+      "10 Grenadine",
+      "120 sok pomarańczowy",
+      "led"
+    ],
+    "img": "http://koktajle-drinki.pl/img/Drink-Tequila-Sunrise-2.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Cosmopolitan",
+    "recipe": [
+      "40 Wódka",
+      "10 Triple sec",
+      "wucisnieta limonka",
+      "sok z zurawinowy"
+    ],
+    "img": "https://www.acouplecooks.com/wp-content/uploads/2019/12/Cosmopolitan-Cocktail-003.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Sex on the Beach",
+    "recipe": [
+      "40 grenadina",
+      "",
+      "sheiker",
+      "40 Wódka",
+      "40 Malibu",
+      "Sok pomarańczowy"
+    ],
+    "img": "https://copykat.com/wp-content/uploads/2022/05/Sex-on-the-Beach-Drink-Pin-9.jpg"
   }
 ]
