@@ -21,6 +21,7 @@ const Product: React.FC<Props> = ({ product: { name, img, recipe } }) => {
           style={{ width: '18rem' }}
         >
           <Card.Img
+            className="product__img"
             variant="top"
             src={img}
             alt="product"

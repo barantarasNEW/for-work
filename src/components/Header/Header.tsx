@@ -23,7 +23,7 @@ const Header = () => {
     <header className="header">
       <Navbar bg="dark" variant="dark">
         <Container>
-          <Navbar.Brand href="/">
+          <Navbar.Brand>
             TUNEL
           </Navbar.Brand>
           <InputGroup className="header__search">
