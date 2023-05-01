@@ -3,9 +3,11 @@
     "id": 1,
     "name": "Rozmarzona Żurawina",
     "recipe": [
+      "led",
       "40 Żurawinówka",
       "Sok pomarańczowy",
       "10 Grenadina",
+      "sprite",
       "dek rozmaryn"
     ],
     "img": "https://cdn.galleries.smcloud.net/t/photos/gf-cLWD-CKvY-o3NQ_red-drop-drink-zurawina-i-wodka.jpg"
@@ -14,8 +16,10 @@
     "id": 2,
     "name": "Campari Orange",
     "recipe": [
+      "led",
       "60 Campari",
-      "Sok pomarańczowy"
+      "120 Sok pomarańczowy",
+      "dec 2 pomarańcza"
     ],
     "img": "https://kulinarneprzeboje.pl/wp-content/uploads/2023/01/sex-on-the-beach-drink-scaled.jpg"
   },
@@ -33,12 +37,13 @@
     "id": 4,
     "name": "Blue Lagoon",
     "recipe": [
+      "led",
       "40 wódka",
       "40 likier Blue Curacao",
-      "10 sok z cytryny - kilka kropel",
+      "10 wyciskana cytryna",
       "10 surop cukrowy",
       "sprite - do wypełnienia",
-      "bez lodu"
+      "dec pomarańcza"
     ],
     "img": "http://koktajle-drinki.pl/img/Drink-Blue-Lagoon-B%C5%82%C4%99kitna-Laguna-2.jpg"
   },
@@ -46,9 +51,10 @@
     "id": 5,
     "name": "Cuba Libre",
     "recipe": [
-      "50 rum bacardi",
-      "120 coca cola",
-      "10 sok z cytryny"
+      "led",
+      "40 rum bacardi",
+      "wyciskana limonka",
+      "coca cola"
     ],
     "img": "http://koktajle-drinki.pl/img/Drink-Cuba-Libre-2.jpg"
   },
@@ -60,6 +66,7 @@
       "2ly cukier brązowy",
       "60 bacardi",
       "mięta",
+      "led",
       "woda gazowana",
       "dec mieta"
     ],
@@ -69,6 +76,7 @@
     "id": 7,
     "name": "Aperol Spritz",
     "recipe": [
+      "led",
       "2 pomarańcza",
       "60 Aperol",
       "120 Proseco (free - free Proseco)",
@@ -80,10 +88,10 @@
     "id": 8,
     "name": "Cardinal",
     "recipe": [
-      "Martini Dry",
-      "Gin",
-      "Campari",
-      "Triple sec",
+      "30 Campari",
+      "30 Gin",
+      "30 Martini Dry",
+      "led",
       "Cappy pomarańczowy"
     ],
     "img": "https://images.absolutdrinks.com/drink-images/Raw/Absolut/c53a5999-952a-4e2e-a52a-bae74977576a.jpg"
@@ -95,7 +103,7 @@
       "led",
       "sheiker",
       "mleko",
-      "Sok z ananasa",
+      "100 Sok z ananasa",
       "40 Rum",
       "40 Malibu",
       "dec ananasa and chocolate"
@@ -106,9 +114,11 @@
     "id": 10,
     "name": "Margarita",
     "recipe": [
+      "sheiker",
       "40 Tequila",
       "20 Triple sec",
       "30 sok z limonki",
+      "led",
       "dec limonka and sol morska"
     ],
     "img": "https://www.kwestiasmaku.com/sites/v123.kwestiasmaku.com/files/margarita_01.jpg"
@@ -117,10 +127,11 @@
     "id": 11,
     "name": "Tequila Sunrise",
     "recipe": [
+      "led",
+      "sheiker",
       "40 Tequila Silver",
-      "10 Grenadine",
       "120 sok pomarańczowy",
-      "led"
+      "dec 10 Grenadine i pomarańcza"
     ],
     "img": "http://koktajle-drinki.pl/img/Drink-Tequila-Sunrise-2.jpg"
   },
@@ -128,9 +139,10 @@
     "id": 12,
     "name": "Cosmopolitan",
     "recipe": [
+      "sheiker",
       "40 Wódka",
       "10 Triple sec",
-      "wucisnieta limonka",
+      "2 wyciskana limonka",
       "sok z zurawinowy"
     ],
     "img": "https://www.acouplecooks.com/wp-content/uploads/2019/12/Cosmopolitan-Cocktail-003.jpg"
@@ -139,13 +151,188 @@
     "id": 13,
     "name": "Sex on the Beach",
     "recipe": [
-      "40 grenadina",
-      "",
+      "led",
       "sheiker",
+      "led",
       "40 Wódka",
       "40 Malibu",
-      "Sok pomarańczowy"
+      "60 Sok pomarańczowy",
+      "dec pomarańcza 40 grenadina abo sok zurawinowy"
     ],
     "img": "https://copykat.com/wp-content/uploads/2022/05/Sex-on-the-Beach-Drink-Pin-9.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Gin Fizz",
+    "recipe": [
+      "sheiker",
+      "led",
+      "30 Gin",
+      "30 sok z cytryny",
+      "30 syrop cukrowy",
+      "woda gazowana"
+    ],
+    "img": "https://cdn.diffords.com/contrib/stock-images/2016/8/15/2016a093a80bc329cb30f6fa0cece9d81068.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Manhattan Strawberry",
+    "recipe": [
+      "led",
+      "40 Whisky",
+      "blendowane truskawki",
+      "brązowy cukier"
+    ],
+    "img": "https://www.californiastrawberries.com/wp-content/uploads/2021/07/Strawberry-Elderflower-Martini.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Americano",
+    "recipe": [
+      "led",
+      "30 Campari",
+      "30 Martini Rosso",
+      "cytryna",
+      "woda gazowana"
+    ],
+    "img": "https://www.thespruceeats.com/thmb/Ci8HpE0G0hcUIEHG2V6Tyo9gs8g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/_americano-cocktail-recipe-759279-05-5bc4eb43c9e77c00510a02c2.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Lyngburg Lemoniade",
+    "recipe": [
+      "led",
+      "40 Jack Daniel's",
+      "20 Triple Sec",
+      "10 sok z cytryny",
+      "syrop cukrowy,",
+      "Sprite",
+      "dec 2 lemon"
+    ],
+    "img": "https://www.mixolopedia.com/wp-content/uploads/2019/11/lynchburg-lemonade-cocktail.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Long Island",
+    "recipe": [
+      "led",
+      "sheiker",
+      "20 Wódka",
+      "20 tequila",
+      "20 rum",
+      "20 gin",
+      "20 Triple Sec",
+      "20 Sok z cytryny",
+      "syrop cukrowy,",
+      "Coca-Cola",
+      "dec cytryna"
+    ],
+    "img": "https://www.foodandwine.com/thmb/fZqumznyG_Vj-LpYYIy16MZE1QA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Long-Island-Iced-Tea-Cocktail-FT-RECIPE1222-6454b2a875f7461190cbae8d93f9dca1.jpg"
+  },
+  {
+    "id": 19,
+    "name": "WHISKY SOUR",
+    "recipe": [
+      "led",
+      "sheiker",
+      "led",
+      "60 Jack DanielS",
+      "Bialko jaja",
+      "10 Sok z cytryny",
+      "4 Angostura"
+    ],
+    "img": "https://www.elle.pl/media/cache/big/uploads/media/default/0008/66/historia-jednego-drinka-whiskey-sour.jpeg"
+  },
+  {
+    "id": 20,
+    "name": "WHISKY HONEY",
+    "recipe": [
+      "led",
+      "40 Jack DanielS",
+      "10 Mioudu",
+      "Sok z jabłkowy",
+      "dec Cynamon + jabłko"
+    ],
+    "img": "https://www.cookswithcocktails.com/wp-content/uploads/2018/07/lemonade-whiskey-030.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Jaggermeister Tea",
+    "recipe": [
+      "led",
+      "sheiker",
+      "led",
+      "60 JAGGERA",
+      "40 Mrozona cherna herbarra",
+      "1ly Mioudu",
+      "10 peach"
+    ],
+    "img": "https://cdn.diffords.com/contrib/stock-images/2019/11/5dd7e10c6cff8.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Hugo",
+    "recipe": [
+      "ugnieciona 4 mieta",
+      "10 monin wanil",
+      "120 Proseco (free - free Proseco)",
+      "woda gazowana",
+      "dec menta"
+    ],
+    "img": "https://cdn.galleries.smcloud.net/t/photos/gf-3EN1-Aux1-HtQD_hugo-przepyszny-drink-z-bombelkami.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Aperol Hot",
+    "recipe": [
+      "60 Aperol",
+      "10 surop Marakuja",
+      "20 Biela wino",
+      "Sok z jabłkowy"
+    ],
+    "img": "https://www.mojegotowanie.pl/media/cache/default_view/uploads/media/default/0002/30/hot-aperol-drink-czyli-przepis-na-grzaniec-z-aperoluu.jpeg"
+  },
+  {
+    "id": 24,
+    "name": "Sex w Tunelu",
+    "recipe": [
+      "sok ananasowy",
+      "sok pomarańczowy wyciskany",
+      "grenadina"
+    ],
+    "img": "" 
+  },
+  {
+    "id": 25,
+    "name": "Tunel Freezing Tea",
+    "recipe": [
+      "czarna herbata",
+      "cytrusy",
+      "maliny"
+    ],
+    "img": "" 
+  },
+  {
+    "id": 26,
+    "name": "Mohito Virgin",
+    "recipe": [
+      "limonka",
+      "cukier brązowy",
+      "syrop cukrowy",
+      "mięta",
+      "woda gazowana"
+    ],
+    "img": "" 
+  },
+  {
+    "id": 27,
+    "name": "Pina Colada Tunel",
+    "recipe": [
+      "mleko",
+      "sok ananasowy",
+      "syrop cukrowy",
+      "mrożone kawałki czekolady"
+    ],
+    "img": "" 
   }
 ]

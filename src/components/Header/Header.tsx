@@ -6,10 +6,12 @@ import {
   Form,
   InputGroup,
 } from 'react-bootstrap';
-import { useSearchParams } from 'react-router-dom';
+import { useLocation, useSearchParams } from 'react-router-dom';
 import { getSearchWith } from '../../helpers/getSearchWith';
 
 const Header = () => {
+  const location = useLocation().pathname;
+  const isSearchAvailable = location.includes('/home');
   const [searchParams, setSearchParams] = useSearchParams();
   const query = searchParams.get('query') || '';
 
@@ -26,15 +28,17 @@ const Header = () => {
           <Navbar.Brand>
             TUNEL
           </Navbar.Brand>
-          <InputGroup className="header__search">
-            <Form.Control
-              placeholder="Szukaj produktów"
-              aria-label="Recipient's username"
-              aria-describedby="basic-addon2"
-              value={query}
-              onChange={onChangeHandle}
-            />
-          </InputGroup>
+          {!isSearchAvailable && (
+            <InputGroup className="header__search">
+              <Form.Control
+                placeholder="Szukaj produktów"
+                aria-label="Recipient's username"
+                aria-describedby="basic-addon2"
+                value={query}
+                onChange={onChangeHandle}
+              />
+            </InputGroup>
+          )}
         </Container>
       </Navbar>
     </header>
